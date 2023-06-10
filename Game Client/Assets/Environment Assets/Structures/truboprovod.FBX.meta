@@ -1,0 +1,785 @@
+fileFormatVersion: 2
+guid: cd21b19cc7772e34a841201087783f4b
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Postament004
+  - first:
+      1: 100004
+    second: Postament003
+  - first:
+      1: 100006
+    second: Postament002
+  - first:
+      1: 100008
+    second: Postament001
+  - first:
+      1: 100010
+    second: Postament
+  - first:
+      1: 100012
+    second: 90turn015
+  - first:
+      1: 100014
+    second: Object004
+  - first:
+      1: 100016
+    second: Object003
+  - first:
+      1: 100018
+    second: truba012
+  - first:
+      1: 100020
+    second: truba011
+  - first:
+      1: 100022
+    second: Object002
+  - first:
+      1: 100024
+    second: truba.04
+  - first:
+      1: 100026
+    second: 5m isolation01
+  - first:
+      1: 100028
+    second: 5m isolation03
+  - first:
+      1: 100030
+    second: 5m broken
+  - first:
+      1: 100032
+    second: 5m isolation
+  - first:
+      1: 100034
+    second: 5m broken.2
+  - first:
+      1: 100036
+    second: 5m isolation.2
+  - first:
+      1: 100038
+    second: truba.05
+  - first:
+      1: 100040
+    second: 90turn02
+  - first:
+      1: 100042
+    second: 90turn03
+  - first:
+      1: 100044
+    second: 90turn04
+  - first:
+      1: 100046
+    second: 90turn06
+  - first:
+      1: 100048
+    second: 90turn09
+  - first:
+      1: 100050
+    second: 90turn10
+  - first:
+      1: 100052
+    second: 10m05
+  - first:
+      1: 100054
+    second: 90turn12
+  - first:
+      1: 100056
+    second: 90turn13
+  - first:
+      1: 100058
+    second: 90turn14
+  - first:
+      1: 100060
+    second: 5m broken001
+  - first:
+      1: 100062
+    second: Object001
+  - first:
+      1: 100064
+    second: truba.03
+  - first:
+      1: 100066
+    second: truba10
+  - first:
+      1: 100068
+    second: truba02
+  - first:
+      1: 100070
+    second: truba04
+  - first:
+      1: 100072
+    second: truba05
+  - first:
+      1: 100074
+    second: truba06
+  - first:
+      1: 100076
+    second: truba09
+  - first:
+      1: 100078
+    second: 2.5m isolation broken.007
+  - first:
+      1: 100080
+    second: 2.5m isolation broken.2
+  - first:
+      1: 100082
+    second: 2.5m isolation broken01
+  - first:
+      1: 100084
+    second: 2.5m isolation broken.04
+  - first:
+      1: 100086
+    second: 2.5m isolation broken03
+  - first:
+      1: 100088
+    second: 2.5m isolation broken.06
+  - first:
+      1: 100090
+    second: 2.5m isolation broken04
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Postament004
+  - first:
+      4: 400004
+    second: Postament003
+  - first:
+      4: 400006
+    second: Postament002
+  - first:
+      4: 400008
+    second: Postament001
+  - first:
+      4: 400010
+    second: Postament
+  - first:
+      4: 400012
+    second: 90turn015
+  - first:
+      4: 400014
+    second: Object004
+  - first:
+      4: 400016
+    second: Object003
+  - first:
+      4: 400018
+    second: truba012
+  - first:
+      4: 400020
+    second: truba011
+  - first:
+      4: 400022
+    second: Object002
+  - first:
+      4: 400024
+    second: truba.04
+  - first:
+      4: 400026
+    second: 5m isolation01
+  - first:
+      4: 400028
+    second: 5m isolation03
+  - first:
+      4: 400030
+    second: 5m broken
+  - first:
+      4: 400032
+    second: 5m isolation
+  - first:
+      4: 400034
+    second: 5m broken.2
+  - first:
+      4: 400036
+    second: 5m isolation.2
+  - first:
+      4: 400038
+    second: truba.05
+  - first:
+      4: 400040
+    second: 90turn02
+  - first:
+      4: 400042
+    second: 90turn03
+  - first:
+      4: 400044
+    second: 90turn04
+  - first:
+      4: 400046
+    second: 90turn06
+  - first:
+      4: 400048
+    second: 90turn09
+  - first:
+      4: 400050
+    second: 90turn10
+  - first:
+      4: 400052
+    second: 10m05
+  - first:
+      4: 400054
+    second: 90turn12
+  - first:
+      4: 400056
+    second: 90turn13
+  - first:
+      4: 400058
+    second: 90turn14
+  - first:
+      4: 400060
+    second: 5m broken001
+  - first:
+      4: 400062
+    second: Object001
+  - first:
+      4: 400064
+    second: truba.03
+  - first:
+      4: 400066
+    second: truba10
+  - first:
+      4: 400068
+    second: truba02
+  - first:
+      4: 400070
+    second: truba04
+  - first:
+      4: 400072
+    second: truba05
+  - first:
+      4: 400074
+    second: truba06
+  - first:
+      4: 400076
+    second: truba09
+  - first:
+      4: 400078
+    second: 2.5m isolation broken.007
+  - first:
+      4: 400080
+    second: 2.5m isolation broken.2
+  - first:
+      4: 400082
+    second: 2.5m isolation broken01
+  - first:
+      4: 400084
+    second: 2.5m isolation broken.04
+  - first:
+      4: 400086
+    second: 2.5m isolation broken03
+  - first:
+      4: 400088
+    second: 2.5m isolation broken.06
+  - first:
+      4: 400090
+    second: 2.5m isolation broken04
+  - first:
+      23: 2300000
+    second: Postament004
+  - first:
+      23: 2300002
+    second: Postament003
+  - first:
+      23: 2300004
+    second: Postament002
+  - first:
+      23: 2300006
+    second: Postament001
+  - first:
+      23: 2300008
+    second: Postament
+  - first:
+      23: 2300010
+    second: 90turn015
+  - first:
+      23: 2300012
+    second: Object004
+  - first:
+      23: 2300014
+    second: Object003
+  - first:
+      23: 2300016
+    second: truba012
+  - first:
+      23: 2300018
+    second: truba011
+  - first:
+      23: 2300020
+    second: Object002
+  - first:
+      23: 2300022
+    second: truba.04
+  - first:
+      23: 2300024
+    second: 5m isolation01
+  - first:
+      23: 2300026
+    second: 5m isolation03
+  - first:
+      23: 2300028
+    second: 5m broken
+  - first:
+      23: 2300030
+    second: 5m isolation
+  - first:
+      23: 2300032
+    second: 5m broken.2
+  - first:
+      23: 2300034
+    second: 5m isolation.2
+  - first:
+      23: 2300036
+    second: truba.05
+  - first:
+      23: 2300038
+    second: 90turn02
+  - first:
+      23: 2300040
+    second: 90turn03
+  - first:
+      23: 2300042
+    second: 90turn04
+  - first:
+      23: 2300044
+    second: 90turn06
+  - first:
+      23: 2300046
+    second: 90turn09
+  - first:
+      23: 2300048
+    second: 90turn10
+  - first:
+      23: 2300050
+    second: 10m05
+  - first:
+      23: 2300052
+    second: 90turn12
+  - first:
+      23: 2300054
+    second: 90turn13
+  - first:
+      23: 2300056
+    second: 90turn14
+  - first:
+      23: 2300058
+    second: 5m broken001
+  - first:
+      23: 2300060
+    second: Object001
+  - first:
+      23: 2300062
+    second: truba.03
+  - first:
+      23: 2300064
+    second: truba10
+  - first:
+      23: 2300066
+    second: truba02
+  - first:
+      23: 2300068
+    second: truba04
+  - first:
+      23: 2300070
+    second: truba05
+  - first:
+      23: 2300072
+    second: truba06
+  - first:
+      23: 2300074
+    second: truba09
+  - first:
+      23: 2300076
+    second: 2.5m isolation broken.007
+  - first:
+      23: 2300078
+    second: 2.5m isolation broken.2
+  - first:
+      23: 2300080
+    second: 2.5m isolation broken01
+  - first:
+      23: 2300082
+    second: 2.5m isolation broken.04
+  - first:
+      23: 2300084
+    second: 2.5m isolation broken03
+  - first:
+      23: 2300086
+    second: 2.5m isolation broken.06
+  - first:
+      23: 2300088
+    second: 2.5m isolation broken04
+  - first:
+      33: 3300000
+    second: Postament004
+  - first:
+      33: 3300002
+    second: Postament003
+  - first:
+      33: 3300004
+    second: Postament002
+  - first:
+      33: 3300006
+    second: Postament001
+  - first:
+      33: 3300008
+    second: Postament
+  - first:
+      33: 3300010
+    second: 90turn015
+  - first:
+      33: 3300012
+    second: Object004
+  - first:
+      33: 3300014
+    second: Object003
+  - first:
+      33: 3300016
+    second: truba012
+  - first:
+      33: 3300018
+    second: truba011
+  - first:
+      33: 3300020
+    second: Object002
+  - first:
+      33: 3300022
+    second: truba.04
+  - first:
+      33: 3300024
+    second: 5m isolation01
+  - first:
+      33: 3300026
+    second: 5m isolation03
+  - first:
+      33: 3300028
+    second: 5m broken
+  - first:
+      33: 3300030
+    second: 5m isolation
+  - first:
+      33: 3300032
+    second: 5m broken.2
+  - first:
+      33: 3300034
+    second: 5m isolation.2
+  - first:
+      33: 3300036
+    second: truba.05
+  - first:
+      33: 3300038
+    second: 90turn02
+  - first:
+      33: 3300040
+    second: 90turn03
+  - first:
+      33: 3300042
+    second: 90turn04
+  - first:
+      33: 3300044
+    second: 90turn06
+  - first:
+      33: 3300046
+    second: 90turn09
+  - first:
+      33: 3300048
+    second: 90turn10
+  - first:
+      33: 3300050
+    second: 10m05
+  - first:
+      33: 3300052
+    second: 90turn12
+  - first:
+      33: 3300054
+    second: 90turn13
+  - first:
+      33: 3300056
+    second: 90turn14
+  - first:
+      33: 3300058
+    second: 5m broken001
+  - first:
+      33: 3300060
+    second: Object001
+  - first:
+      33: 3300062
+    second: truba.03
+  - first:
+      33: 3300064
+    second: truba10
+  - first:
+      33: 3300066
+    second: truba02
+  - first:
+      33: 3300068
+    second: truba04
+  - first:
+      33: 3300070
+    second: truba05
+  - first:
+      33: 3300072
+    second: truba06
+  - first:
+      33: 3300074
+    second: truba09
+  - first:
+      33: 3300076
+    second: 2.5m isolation broken.007
+  - first:
+      33: 3300078
+    second: 2.5m isolation broken.2
+  - first:
+      33: 3300080
+    second: 2.5m isolation broken01
+  - first:
+      33: 3300082
+    second: 2.5m isolation broken.04
+  - first:
+      33: 3300084
+    second: 2.5m isolation broken03
+  - first:
+      33: 3300086
+    second: 2.5m isolation broken.06
+  - first:
+      33: 3300088
+    second: 2.5m isolation broken04
+  - first:
+      43: 4300000
+    second: truba09
+  - first:
+      43: 4300002
+    second: truba06
+  - first:
+      43: 4300004
+    second: truba05
+  - first:
+      43: 4300006
+    second: truba04
+  - first:
+      43: 4300008
+    second: truba02
+  - first:
+      43: 4300010
+    second: 2.5m isolation broken04
+  - first:
+      43: 4300012
+    second: truba10
+  - first:
+      43: 4300014
+    second: truba.03
+  - first:
+      43: 4300016
+    second: Object001
+  - first:
+      43: 4300018
+    second: 5m broken001
+  - first:
+      43: 4300020
+    second: 2.5m isolation broken.06
+  - first:
+      43: 4300022
+    second: 90turn14
+  - first:
+      43: 4300024
+    second: 90turn13
+  - first:
+      43: 4300026
+    second: 90turn12
+  - first:
+      43: 4300028
+    second: 10m05
+  - first:
+      43: 4300030
+    second: 90turn10
+  - first:
+      43: 4300032
+    second: 90turn09
+  - first:
+      43: 4300034
+    second: 90turn06
+  - first:
+      43: 4300036
+    second: 2.5m isolation broken03
+  - first:
+      43: 4300038
+    second: 2.5m isolation broken.04
+  - first:
+      43: 4300040
+    second: 90turn04
+  - first:
+      43: 4300042
+    second: 90turn03
+  - first:
+      43: 4300044
+    second: 2.5m isolation broken01
+  - first:
+      43: 4300046
+    second: 90turn02
+  - first:
+      43: 4300048
+    second: 2.5m isolation broken.2
+  - first:
+      43: 4300050
+    second: truba.05
+  - first:
+      43: 4300052
+    second: 5m isolation.2
+  - first:
+      43: 4300054
+    second: 5m broken.2
+  - first:
+      43: 4300056
+    second: 5m isolation
+  - first:
+      43: 4300058
+    second: 5m broken
+  - first:
+      43: 4300060
+    second: 5m isolation03
+  - first:
+      43: 4300062
+    second: 5m isolation01
+  - first:
+      43: 4300064
+    second: truba.04
+  - first:
+      43: 4300066
+    second: 2.5m isolation broken.007
+  - first:
+      43: 4300068
+    second: Object002
+  - first:
+      43: 4300070
+    second: truba011
+  - first:
+      43: 4300072
+    second: truba012
+  - first:
+      43: 4300074
+    second: Object003
+  - first:
+      43: 4300076
+    second: Object004
+  - first:
+      43: 4300078
+    second: 90turn015
+  - first:
+      43: 4300080
+    second: Postament
+  - first:
+      43: 4300082
+    second: Postament001
+  - first:
+      43: 4300084
+    second: Postament002
+  - first:
+      43: 4300086
+    second: Postament003
+  - first:
+      43: 4300088
+    second: Postament004
+  - first:
+      111: 11100000
+    second: //RootNode
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.3
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1.3
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
