@@ -46,26 +46,26 @@ Client      （客户端代码均在Scripts里）
 
 Server
 1.common
-      conf.py  服务器全局变量，包括模块编码，函数编码，消息类型编码，以及服务器常量
-      event.py  消息格式定义
-      header.py  数据包定义
+     conf.py  服务器全局变量，包括模块编码，函数编码，消息类型编码，以及服务器常量
+     event.py  消息格式定义
+     header.py  数据包定义
 2.common_server
-      timer.py  服务器定时器实现
+     timer.py  服务器定时器实现
 3.Entity
-      entity.py  服务器游戏对象基类
-      playerEntity.py  服务器玩家对象，负责临时存放玩家数据
-      zombieEntity.py  服务器怪物对象，负责临时存放怪物数据
+     entity.py  服务器游戏对象基类
+     playerEntity.py  服务器玩家对象，负责临时存放玩家数据
+     zombieEntity.py  服务器怪物对象，负责临时存放怪物数据
 4.Module
-      dispatcher.py  服务器模块基类
-      dataBaseModule.py  服务器数据库处理模块
-      loginModule.py  服务器用户登录处理模块
-      playerEntityModule.py  服务器玩家处理模块
-      zombieEntityModule.py  服务器怪物处理模块
+     dispatcher.py  服务器模块基类
+     dataBaseModule.py  服务器数据库处理模块
+     loginModule.py  服务器用户登录处理模块
+     playerEntityModule.py  服务器玩家处理模块
+     zombieEntityModule.py  服务器怪物处理模块
 5.Network
-      netStream.py  客户端套接字操作封装
-      simpleHost.py  服务器套接字操作封装
+     netStream.py  客户端套接字操作封装
+     simpleHost.py  服务器套接字操作封装
 6.Setting
-      KeyType.py  服务器  字典键定义
+     KeyType.py  服务器  字典键定义
 Server.py  定义服务器类，负责接收数据处理后，按照编码发送到各个模块处理，负责消息队列里数据发送
       
 
