@@ -51,7 +51,7 @@ public class TPSCamera : MonoBehaviour
         targetPos.y += height;
  
         //旋转y轴，左右滑动
-        float radian = -rotate.x * (Mathf.PI / 180);
+        float radian = -rotate.x * (Mathf.PI / 180);        // 弧度=角度*Math.PI/180
         float x = radius * Mathf.Cos(radian);
         float y = radius * Mathf.Sin(radian);
         endPosition = targetPos + new Vector3(x, 0, y);
